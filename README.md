@@ -1,5 +1,6 @@
 # Sea-Fight
 Getting Started
+
 $ npm install -g yo
 
 Yeoman Generators
