@@ -10,6 +10,7 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-angular-gulp-coffee from npm, run:
 
 $ npm install -g generator-angular-gulp-coffee
+
 Finally, initiate the generator:
 
 $ yo angular-gulp-coffee
