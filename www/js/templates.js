@@ -1,0 +1,1 @@
+angular.module("templates", []).run(["$templateCache", function($templateCache) {$templateCache.put("index.html","<div class=\"myButton\" ng-show=\"startButton\" ng-click=\"start(20,20)\">Start</div>\n<div id=\"p1\"></div>\n<div id=\"p2\"></div>\n");}]);
